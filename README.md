@@ -16,9 +16,9 @@ We expect global warming to increase the frequency of hurricanes, which would in
 
 ## Results so far
 
-As of now, Quantify_Cloud_Cover.ipynb can go through a folder of GOES satellite files (ranging over the lifespan of a hurricane, plus/minus 7 days) and plot the percent of the Northern Atlantic covered by clouds over time. We see decent agreement between Bands 3-18 (14.06-3.74 nanometer wavelengths).
+As of now, Quantify_Cloud_Cover.ipynb can go through a folder of GOES satellite files (ranging over the lifespan of a hurricane, plus/minus 7 days) and plot the percent of the Northern Atlantic covered by clouds over time. We see decent agreement between Bands 3-18 (14.06-3.74 nanometer wavelengths). A preliminary summary of my results can be seen in the file "Quantifying Cloud Cover during Hurricane Sandy (Zain Kamal).pdf".
 
-I am compiling documents used and a detailed record of my methodology, and am happy to provide it upon request. I plan on doing a formal write-up of my results in May, and hope to present at the American Geophysical Union conference in Fall 2022.
+I am compiling the documentation I used and a detailed record of my methodology, and am happy to provide it upon request. I plan on doing a formal write-up of my results in May, and hope to present at the American Geophysical Union conference in Fall 2022.
 
 ## To do
 
