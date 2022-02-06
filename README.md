@@ -1,4 +1,4 @@
-Email: [z.kamal2021@gmail.com](mailto:z.kamal2021@gmail.com) or [zain.kamal@rutgers.edu](mailto:zain.kamal@rutgers.edu)
+Email: [z.kamal2021@gmail.com](mailto:z.kamal2021@gmail.com) or [zain.kamal@rutgers.edu](mailto:zain.kamal@rutgers.edu), I check both.
 
 Special thanks to Andrew Gerrard from NJIT for his guidance through the beginning of this project and help in obtaining BBSO data.
 
