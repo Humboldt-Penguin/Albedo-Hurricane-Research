@@ -2,7 +2,7 @@ Email: [z.kamal2021@gmail.com](mailto:z.kamal2021@gmail.com) or [zain.kamal@rutg
 
 Special thanks to Professor Andrew Gerrard from NJIT for his guidance through the beginning of this project and help in obtaining BBSO data.
 
-# Albedo/Hurricane Research
+# Albedo/Hurricane Research (Ongoing)
 
 ## Background
 
