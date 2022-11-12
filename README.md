@@ -2,7 +2,11 @@ Email: [z.kamal2021@gmail.com](mailto:z.kamal2021@gmail.com) or [zain.kamal@rutg
 
 Special thanks to Professor Andrew Gerrard from NJIT for his guidance through this project and help in obtaining BBSO data.
 
+---
+
 **Final update: See the "Final Report" PDF.**
+
+* We gave our [final presentation](https://www.youtube.com/watch?v=_kpkBVtLt3k) at the Governor's STEM Scholars symposium in May 2022. My students received an award for science communication :>
 
 ---
 
