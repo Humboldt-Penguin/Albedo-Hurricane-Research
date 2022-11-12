@@ -2,6 +2,10 @@ Email: [z.kamal2021@gmail.com](mailto:z.kamal2021@gmail.com) or [zain.kamal@rutg
 
 Special thanks to Professor Andrew Gerrard from NJIT for his guidance through this project and help in obtaining BBSO data.
 
+**Final update: See the "Final Report" PDF.**
+
+---
+
 # Albedo/Hurricane Research (Ongoing)
 
 ## Background
@@ -19,10 +23,6 @@ We expect global warming to increase the frequency of hurricanes, which would in
 As of now, Quantify_Cloud_Cover.ipynb can go through a folder of GOES satellite files (ranging over the lifespan of a hurricane, plus/minus 7 days) and plot the percent of the Northern Atlantic covered by clouds over time. We see decent agreement between Bands 3-18 (14.06-3.74 nanometer wavelengths). A preliminary summary of my results can be seen in the file "Quantifying Cloud Cover during Hurricane Sandy (Zain Kamal).pdf".
 
 I am compiling the documentation I used and a detailed record of my methodology, and am happy to provide it upon request. I plan on doing a formal write-up of my results in May, and hope to present at the American Geophysical Union conference in Fall 2022.
-
-## To do
-
-As of December 2021, we've been waiting on albedo data from the Big Bear Solar Observatory. Once secured, we can readily conduct a [superposed epoch analysis](https://en.wikipedia.org/wiki/Superposed_epoch_analysis) to obtain the final results of our research. If time permits, we will also conduct the same analysis but with data from the NASA CERES satellites instead of the NOAA GOES satellites. To summarize the meaningful difference between these datasets, the BBSO measurements are based on earthshine, which captures a much wider angular reflectivity when measuring the luminosity of the moon, which is useful as clouds tend to scatter light significantly based on the type of ice crystals they contain. However, this is at the cost of less sensitivity to cloud types and less specificity over the specific spatial range for which albedo is being measured.
 
 ---
 # Mentorship
